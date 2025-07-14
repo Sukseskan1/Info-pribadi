@@ -13,8 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sukseskan1&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](tidak mencoba lebih buruk daripada kegagalan itu sendiri, lakukan sekarang atau tidak sama sekali, civil engineering
-#janganlupabersyukur)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sukseskan1&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
